@@ -117,7 +117,7 @@ O sistema terá regras para garantir a integridade dos dados e evitar conflitos 
 
 - ✅ Criar o projeto Spring Boot.
 - ✅ Organizar os pacotes da aplicação.
-- ⬜ Criar as entidades JPA.
+- ✅ Criar as entidades JPA.
 - ⬜ Implementar os relacionamentos entre entidades.
 - ⬜ Configurar o banco de dados.
 - ⬜ Criar os repositórios com Spring Data JPA.
